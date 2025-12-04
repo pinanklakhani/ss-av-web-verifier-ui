@@ -55,7 +55,7 @@ export default function QrCode(data: QrCodeData) {
           className="mt-4 text-center"
           style={{ textDecoration: 'underline', color: 'blue' }}
         >
-          For mobile login click here
+          Request Credential
         </a>
         {/* {isMobile && (
           <p className="text-sm text-gray-600 mt-2 text-center">
