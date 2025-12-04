@@ -19,9 +19,7 @@ export default function Header({
     <div className="p-4 shadow-lg rounded-lg flex justify-between items-center">
       <div className="flex items-center gap-4">
         <img src="/ic-logo.svg" />
-        <h1 className="text-2xl font-bold">
-          EU Age Verification Solution Demo
-        </h1>
+        <h1 className="text-2xl font-bold">EU Age Verification Solution</h1>
       </div>
       <Menu>
         <MenuButton>

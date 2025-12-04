@@ -13,14 +13,14 @@ export default function Footer() {
         >
           EU Age Verification Profile, Version 1.0.6
         </a>
-        {' | '}
+        {' | Powered by '}
         <a
           className="text-indigo-800 underline"
-          href="https://github.com/eu-digital-identity-wallet/av-web-verifier-ui"
+          href="https://www.smartsensesolutions.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          View on GitHub
+          smartSense Consulting Solutions Pvt. Ltd
         </a>
       </p>
     </div>
